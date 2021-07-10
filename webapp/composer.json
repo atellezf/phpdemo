@@ -1,0 +1,20 @@
+{
+    "name": "utel/phpdemo",
+    "description": "Proyecto de la materia de Desarrollo e Integración de Aplicaciones y Servicios Web",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.3"
+    },
+    "license": "GNU GPL (General Public License)",
+    "autoload": {
+        "psr-4": {
+            "Utel\\Phpdemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alejandro Tellez",
+            "email": "alejandro@correo.com"
+        }
+    ]
+}
